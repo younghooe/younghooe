@@ -1,4 +1,4 @@
-## Hi, I'm yh. 👋
+## Just do it, don't think about it
 
 <!--
 **younghooe/younghooe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
